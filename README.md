@@ -1,6 +1,13 @@
-## salve garai
+## salve 
 Meu nome é Neymar Careca!
-Só isso mesmo
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+É isso, tchau
 ![](https://media1.tenor.com/m/2HffOAf70YEAAAAd/sheikh-neymar-neymar.gif)
-Tchau
-👨‍🦲
+![](https://media1.tenor.com/m/2HffOAf70YEAAAAd/sheikh-neymar-neymar.gif)
+![](https://media1.tenor.com/m/2HffOAf70YEAAAAd/sheikh-neymar-neymar.gif)
+![](https://media1.tenor.com/m/2HffOAf70YEAAAAd/sheikh-neymar-neymar.gif)
+![](https://media1.tenor.com/m/2HffOAf70YEAAAAd/sheikh-neymar-neymar.gif)
+![](https://media1.tenor.com/m/2HffOAf70YEAAAAd/sheikh-neymar-neymar.gif)
+![](https://media1.tenor.com/m/2HffOAf70YEAAAAd/sheikh-neymar-neymar.gif)
